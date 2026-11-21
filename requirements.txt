@@ -1,0 +1,6 @@
+pandas>=2.0
+scikit-learn>=1.3
+pypdf>=4.0
+flask>=3.0
+# Optional: better lemmatisation (then run: python -m nltk.downloader wordnet)
+# nltk>=3.8
